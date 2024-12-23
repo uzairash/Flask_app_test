@@ -1,9 +1,14 @@
-# Flask Application
 
-### Command to Run the Application
+# FlasK app
+
+A simple application for login and signup 
+
+## Run application
 ```bash
 flask --app app run
+```
+## Initialize Database
 
-### initialize DB 
 ```bash
 flask init-db
+```
