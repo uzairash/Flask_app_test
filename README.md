@@ -1,5 +1,5 @@
 
-# FlasK app
+# Flask app
 
 A simple application for login and signup 
 
